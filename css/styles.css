@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#casey-tyack-cover {
+    background-image: url("http://i.imgur.com/a/DUIb2.png");
+}
+
+#casey-tyack-card {
+    background-image: url("http://i.imgur.com/a/9NWCG.png");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
